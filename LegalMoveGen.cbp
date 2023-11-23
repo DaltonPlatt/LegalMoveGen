@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="LegalMoveGenAndFlagsGen" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LegalMoveGen" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="bench 128 1 12 GundersenFaul1928.fen depth" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LegalMoveGen" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="GundersenFaul1928.fen" />
+		<Unit filename="LegalMoveGen.cpp" />
+		<Unit filename="benchmark.cpp" />
+		<Unit filename="bitboard.cpp" />
+		<Unit filename="bitboard.h" />
+		<Unit filename="botcap1938.fen" />
+		<Unit filename="chess.h" />
+		<Unit filename="defendedchecker.fen" />
+		<Unit filename="maxchecks.fen" />
+		<Unit filename="movegen.cpp" />
+		<Unit filename="movegen.h" />
+		<Unit filename="position.cpp" />
+		<Unit filename="position.h" />
+		<Unit filename="search.h" />
+		<Unit filename="timeman.cpp" />
+		<Unit filename="timeman.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

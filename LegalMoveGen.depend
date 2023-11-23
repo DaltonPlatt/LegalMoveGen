@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1698845810 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\benchmark.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"timeman.h"
+	"movegen.h"
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\timeman.h
+	<windows.h>
+	<sys/timeb.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/pstat.h>
+	<xmmintrin.h>
+	"search.h"
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\search.h
+	<cstring>
+	<vector>
+	"position.h"
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\position.h
+	<string>
+	"bitboard.h"
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\bitboard.h
+	"chess.h"
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\chess.h
+	<bitset>
+
+1698845810 c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\movegen.h
+	"search.h"
+
+1698845810 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\bitboard.cpp
+	<iostream>
+	"bitboard.h"
+
+1698845810 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\legalmovegen.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	"timeman.h"
+
+1584205420 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\main.cpp
+	<iostream>
+
+1698845810 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\movegen.cpp
+	<algorithm>
+	<cassert>
+	"movegen.h"
+
+1698845810 source:c:\users\dalto\onedrive\documents\cnit 315\week 2\legalmovegen\timeman.cpp
+	"timeman.h"
+
+1700367373 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\benchmark.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"timeman.h"
+	"movegen.h"
+
+1699282657 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\timeman.h
+	<windows.h>
+	<sys/timeb.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/pstat.h>
+	<xmmintrin.h>
+	"search.h"
+
+1700367373 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\search.h
+	<cstring>
+	<vector>
+	"position.h"
+
+1700493957 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\position.h
+	<string>
+	"bitboard.h"
+
+1700278178 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\bitboard.h
+	"chess.h"
+
+1700769345 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\chess.h
+	<bitset>
+
+1700379240 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\movegen.h
+	"search.h"
+
+1700278558 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\bitboard.cpp
+	<iostream>
+	"bitboard.h"
+
+1700710835 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\legalmovegen.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	"timeman.h"
+	"movegen.h"
+
+1700381543 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\movegen.cpp
+	<algorithm>
+	<cassert>
+	<iostream>
+	"movegen.h"
+
+1699282657 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\timeman.cpp
+	"timeman.h"
+
+1700380544 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\position.cpp
+	<iostream>
+	<sstream>
+	<cstring>
+	"position.h"
+
+1699282654 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\benchmark.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"timeman.h"
+	"movegen.h"
+
+1699282657 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\timeman.h
+	<windows.h>
+	<sys/timeb.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/pstat.h>
+	<xmmintrin.h>
+	"search.h"
+
+1699677490 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\search.h
+	<cstring>
+	<vector>
+	"position.h"
+
+1699676230 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\position.h
+	<string>
+	<iostream>
+	<cstring>
+	"bitboard.h"
+
+1699644983 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\bitboard.h
+	"chess.h"
+
+1699642422 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\chess.h
+	<bitset>
+
+1699282656 c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\movegen.h
+	"search.h"
+
+1699673724 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\bitboard.cpp
+	<iostream>
+	"bitboard.h"
+
+1699632957 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\legalmovegen.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	"timeman.h"
+
+1699644983 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\movegen.cpp
+	<algorithm>
+	<cassert>
+	"movegen.h"
+
+1699282657 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\position.cpp
+	<iostream>
+	<sstream>
+	"position.h"
+
+1699282657 source:c:\users\dalton\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\timeman.cpp
+	"timeman.h"
+
+1700286013 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\ucioption.cpp
+
+1700365352 source:c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\uci.cpp
+
+1700363082 c:\users\dalto\purdue.edu\enzinger, erin jo - cnit 315 team project\legalmovegen\uci.h
+	"position.h"
+
+1700367373 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\benchmark.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	"timeman.h"
+	"movegen.h"
+
+1699282657 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\timeman.h
+	<windows.h>
+	<sys/timeb.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/pstat.h>
+	<xmmintrin.h>
+	"search.h"
+
+1700367373 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\search.h
+	<cstring>
+	<vector>
+	"position.h"
+
+1700449623 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\position.h
+	<string>
+	"bitboard.h"
+
+1700278178 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\bitboard.h
+	"chess.h"
+
+1700377348 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\chess.h
+	<bitset>
+
+1700379240 c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\movegen.h
+	"search.h"
+
+1700278558 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\bitboard.cpp
+	<iostream>
+	"bitboard.h"
+
+1700455244 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\legalmovegen.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	"timeman.h"
+	"movegen.h"
+
+1700381543 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\movegen.cpp
+	<algorithm>
+	<cassert>
+	<iostream>
+	"movegen.h"
+
+1700380544 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\position.cpp
+	<iostream>
+	<sstream>
+	<cstring>
+	"position.h"
+
+1699282657 source:c:\users\12esq\onedrive - purdue.edu\cnit 315 team project\legalmovegen\timeman.cpp
+	"timeman.h"
+
